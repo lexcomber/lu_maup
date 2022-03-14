@@ -1,4 +1,4 @@
-# The importance of scale and the MAUP for robust Ecosystem Service evaluations and landscape decisions
+# The Importance of Scale and the MAUP for Robust Ecosystem Service Evaluations and Landscape Decisions
 
 Alexis Comber<sup>1*</sup> and Paul Harris<sup>2</sup>
 
